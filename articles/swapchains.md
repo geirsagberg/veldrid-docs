@@ -4,7 +4,7 @@ uid: swapchains
 
 # Swapchains
 
-A [Swapchain](xref:Veldrid.Swapchain) is a special kind of resource that provides the ability to present rendered images to an application view or surface. If you want the display any rendered images in Veldrid, you need a Swapchain.
+A [Swapchain](xref:Veldrid.Swapchain) is a special kind of resource that provides the ability to present rendered images to an application view or surface. If you want to display any rendered images in Veldrid, you need a Swapchain.
 
 ## Using a Swapchain
 
